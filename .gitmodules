@@ -1,0 +1,6 @@
+[submodule "carla"]
+	path = carla
+	url = git@github.com:carla-simulator/carla.git
+[submodule "ccr_ncap"]
+	path = ccr_ncap
+	url = git@github.com:iftahnaf/ccr_ncap.git
