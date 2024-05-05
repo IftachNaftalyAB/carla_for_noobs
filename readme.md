@@ -5,7 +5,7 @@
 
 # General Information
 
-This repository aims to help setting up CARLA simulator, and show simple example of the Python API usage.
+This repository suppose to help setting up CARLA simulator, and shows simple examples of the Python API usage.
 
 ## CI
 
@@ -13,9 +13,9 @@ This repository aims to help setting up CARLA simulator, and show simple example
 
 # Prerequisites
 
-1. [Install Docker Engine](https://docs.docker.com/engine/install/ubuntu/)
+1. [Install Docker Engine](https://docs.docker.com/engine/install/ubuntu/).
 2. Follow [Linux Post-Install Steps](https://docs.docker.com/engine/install/linux-postinstall/) for Docker Engine.
-3. Install [NVIDIA Container Toolkit](https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/latest/install-guide.html)
+3. Install [NVIDIA Container Toolkit](https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/latest/install-guide.html).
 
 # Install
 
