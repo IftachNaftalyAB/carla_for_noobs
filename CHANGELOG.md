@@ -2,6 +2,19 @@
 
 
 
+## v0.1.1 (2024-05-05)
+
+### Fix
+
+* fix(docker-compose): remove unnecessary mount ([`3901b3f`](https://github.com/IftachNaftalyAB/carla_for_noobs/commit/3901b3f80afe5395d54b099c0567c1099e15b67b))
+
+### Unknown
+
+* Merge pull request #7 from IftachNaftalyAB/fix/docker-compose-file
+
+fix(docker-compose): remove unnecessary mount ([`8fc070d`](https://github.com/IftachNaftalyAB/carla_for_noobs/commit/8fc070da64014db98a501794fd9d7de0db9352d6))
+
+
 ## v0.1.0 (2024-05-05)
 
 ### Ci
