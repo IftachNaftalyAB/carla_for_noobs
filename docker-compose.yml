@@ -22,7 +22,6 @@ services:
             capabilities: [gpu]
     volumes:
       - /tmp/.X11-unix:/tmp/.X11-unix:rw
-      - /usr/share/vulkan/icd.d:/usr/share/vulkan/icd.d
 
   client:
     build:
